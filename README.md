@@ -1,17 +1,7 @@
-![image](https://github.com/Churanta/Binary-Brains/assets/83538805/0924ef3c-8245-4642-9ce3-cf162d79d1bc)
+
 # Gen-Ai-Rush-Buildathon
 
-## Submission Instruction:
-  1. Fork this repository
-  2. Create a folder with your Team Name
-  3. Upload all the code and necessary files in the created folder
-  4. Upload a **README.md** file in your folder with the below mentioned informations.
-  5. Generate a Pull Request with your Team Name. (Example: submission-XYZ_team)
 
-## README.md must consist of the following information:
-
-#### Team Name - Binary Brains
-#### Problem Statement - MULTI-LANGUAGE CODE GENERATOR
 
 #### Team Leader Email - churantamondal321@gmail.com
 
@@ -45,7 +35,7 @@ The tech stack used in the provided code prototype includes the following compon
 The primary focus of the tech stack is to enable the fine-tuning of the T5 model for code generation while providing the necessary tools and utilities for data preprocessing, model handling, and training. The Hugging Face ecosystem plays a crucial role in simplifying many NLP-related tasks, allowing developers to work with advanced NLP models more efficiently.
    
 ## Step-by-Step Code Execution Instructions:
-1. Clone the repository ` https://github.com/Churanta/Binary-Brains.git `
+1. Clone the repository ` https://github.com/Siddarthsangavi/Python-Code-Generator`
 2. run the ` training.py ` file
 3. wait till the model get trained
 4. run ` main.py `
@@ -55,14 +45,6 @@ The primary focus of the tech stack is to enable the fine-tuning of the T5 model
 
 ## Architecture
 ![Picture1](https://github.com/Churanta/Binary-Brains/assets/83538805/58ae9a02-057b-4def-bf84-aade6a35e131)
-
-
-## Video Demonstration
-
-
-https://github.com/Churanta/Binary-Brains/assets/83538805/cc11b842-9d3c-4464-8d97-fdf4697f9730
-
-
 
 ## Screenshots
 
