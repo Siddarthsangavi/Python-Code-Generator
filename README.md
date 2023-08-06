@@ -1,9 +1,6 @@
-
+So this was the project made by me and my team for a hackathon called Gen-Ai-Rush-Buildathon which was a national hackathon.
+i would proudly say that our eam was in top 1%. 
 # Gen-Ai-Rush-Buildathon
-
-
-
-#### Team Leader Email - churantamondal321@gmail.com
 
 ## A Brief of the Prototype:
 The provided code is a prototype for fine-tuning the T5 (Text-to-Text Transfer Transformer) model for a specific task: code generation from natural language queries. The prototype is implemented using TensorFlow and the Hugging Face transformers library, which makes it easier to work with state-of-the-art NLP models.
