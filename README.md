@@ -1,5 +1,4 @@
-So this was the project made by me and my team for a hackathon called Gen-Ai-Rush-Buildathon which was a national hackathon.
-i would proudly say that our eam was in top 1%. 
+## So this was the project made by me and my team for a hackathon called Gen-Ai-Rush-Buildathon which was a national hackathon. I would proudly say that our tam was in top 1%. 
 # Gen-Ai-Rush-Buildathon
 
 ## A Brief of the Prototype:
